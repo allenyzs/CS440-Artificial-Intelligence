@@ -6,7 +6,7 @@ Group: Zhuoshu Yang, Yifan Wang, Robin Liu, Sameena Bajwa
 ```
 
 ## Project description
-### 1. Logistic Regression 2. Neural Networks 3. Digit Classification
+### 1. Logistic Regression & Neural Network 2. Gesture Recognition 3. Digit Classification
 ```
 We are designing and implementing a simple neural network and train it on 3 different datasets. Our goals: 
 1. Understand how neural networks work. 
