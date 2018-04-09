@@ -15,8 +15,9 @@ We are designing and implementing a simple neural network and train it on 3 diff
 4. Learn how to evaluate a classifier using metrics like classification accuracy and confusion matrices.
 ```
 ## Problem Definition
-### Design a hand shape and gesture recognition system that detects at least 3 hand shapes and hand gestures. The system should be able to recognize at least 1 static hand shape and 1 dynamic hand gesture.
-
+```
+Design a hand shape and gesture recognition system that detects at least 3 hand shapes and hand gestures. The system should be able to recognize at least 1 static hand shape and 1 dynamic hand gesture.
+```
 ## Method and Implementation
 ### 1) Static Hand Shape Recognition:
 ```
